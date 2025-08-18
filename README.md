@@ -13,8 +13,10 @@ I love turning ideas into code and building things that (hopefully) make life a 
 - 🎨 Occasionally craft UIs with **Streamlit** (because good AI deserves a good frontend)  
 
 ### 🌐 Let’s Connect
-- 💼 [LinkedIn](https://linkedin.com/in/mariajomy)   
-- ✉️ [Email Me](mailto:mariajomy7@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5
+)](https://linkedin.com/in/mariajomy)   
+[![Email Me](https://img.shields.io/badge/GMail-EA4335
+)](mailto:mariajomy7@gmail.com)  
 
 
 
